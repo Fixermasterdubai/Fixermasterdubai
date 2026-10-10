@@ -1,8 +1,17 @@
-## Hi there 👋
+# Fixer Master Dubai - #1 Appliance Repair in Dubai
 
-<!--
-**Fixermasterdubai/Fixermasterdubai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! I'm Fixer Master Dubai 👋
 
-visit my official website
-https://fixermasterdubai.com
-https://fixermasterdubai.com
+We provide professional appliance repair services across Dubai, UAE.
+
+### 🌐 My Official Website:
+**https://fixermasterdubai.com**
+
+### 🔧 Services:
+- Washing Machine Repair
+- Refrigerator Repair  
+- AC Repair & Maintenance
+- Dishwasher, Dryer & Oven Repair
+
+📍 Serving All Dubai - 24/7 Available
+👉 Visit Now: https://fixermasterdubai.com
